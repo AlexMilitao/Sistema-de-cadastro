@@ -4,5 +4,5 @@
 >
 >Para rodar esse projeto em sua máquina, pls digite:
 >```
->NPM INSTALL REACT
+>Node app.js
 >```
